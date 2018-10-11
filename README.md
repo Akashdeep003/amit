@@ -1,2 +1,0 @@
-# amit
-Created with CodeSandbox
